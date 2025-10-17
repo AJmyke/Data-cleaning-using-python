@@ -67,10 +67,3 @@ The analysis highlights that:
 - **Higher-rated companies** consistently offer more competitive pay and stronger workplace satisfaction.  
 
 This project demonstrates how analytical techniques can reveal trends that inform career strategy, hiring decisions, and market understanding.
-
----
-
-## 🚀 How to Run
-1. Clone the repository:
-```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
