@@ -36,16 +36,6 @@ Using a dataset of job listings, the project answers these questions through **d
 | **Company Ratings**       | Companies with higher ratings tend to offer competitive salaries.           |
 
 ---
-
-## 🖼️ Visual Highlights
-| Visualization | Description |
-| -------------- | ------------ |
-| ![Salary Distribution](../images/Avg_Salary.png) | Distribution of average data science salaries |
-| ![Top Roles](../images/Top10_Roles.png) | Most common job titles in the market |
-| ![Sector Ratings](../images/Sector_Ratings.png) | Average company ratings by industry sector |
-
----
-
 ## 🧮 Methodology
 1. **Data Cleaning:**  
    Removed duplicates, standardized text, and extracted salary ranges (`Minimum_Salary`, `Maximum_Salary`, `avg_salary`).
